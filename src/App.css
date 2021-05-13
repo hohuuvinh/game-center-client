@@ -1,0 +1,12 @@
+p{
+  font-family: 'Inter VF', sans-serif;color: #233477;font-weight: normal;
+  line-height: 1.56;letter-spacing: normal;
+}
+::-webkit-scrollbar{
+  width: 6px;
+  height: 6px;
+}
+*{
+  margin: 0;
+  padding: 0;
+}

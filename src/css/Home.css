@@ -1,0 +1,21 @@
+.box-slide {
+    width:100%;
+    background: white;
+    text-align:left;
+    white-space: nowrap;
+    overflow-y:hidden;
+}
+.div_to_hold_images {
+    width:210px;
+    height:340px;
+    display: inline-block;
+    overflow:hidden;
+    margin-right: 3px;
+
+}
+.box-slide-title{
+    width: 100%;
+    height: 60px;
+    background: rgb(0,0,0);
+    background: linear-gradient(180deg, rgba(0,0,0,0.7343312324929971) 0%, rgba(0,0,0,0.6867121848739496) 30%, rgba(0,0,0,0.742734593837535) 100%);
+}
